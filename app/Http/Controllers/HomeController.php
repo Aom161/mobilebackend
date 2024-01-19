@@ -10,4 +10,7 @@ class HomeController extends Controller
     public function showprofile() {
         return "Hello This is my Profile page";
     }
+    public function showproduct() {
+        return "Hello This is my Profile page";
+    }
 }
